@@ -1,0 +1,32 @@
+_repo: Within-an-Inch-of-His-Life_3336
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: ''
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2006-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fires -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Arsonists -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PQ'
+- GITenberg
+title: Within an Inch of His Life
+url: http://www.gutenberg.org/ebooks/3336
